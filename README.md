@@ -1,3 +1,2 @@
 # hacking-camera
-this is made by samarth verulkar one of the best programmer in the world best hacker also
-hacking camera
+this is made by samarth verulkar. script fr finding vulnerable web camera port in web     
